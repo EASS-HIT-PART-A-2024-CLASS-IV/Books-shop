@@ -1,12 +1,12 @@
 # Welcome to May Yashar's book store!
 
-## If you need this project - you probably work for me (or your name is Yossi and you are my lecturer) 
-
-## on the fastapi **or** on localhost:8000/Books-shop you can see all the books in our store,
-
-## and as a store employee you will be able to add new books we received to the store, updatade and delete if anything has changed.
-
-# good luck!**
+**If you need this project - you probably work for me (or your name is Yossi and you are my lecturer) 
+**
+** on the fastapi **or** on localhost:8000/Books-shop you can see all the books in our store,
+**
+** and as a store employee you will be able to add new books we received to the store, updatade and delete if anything has changed.
+**
+# good luck!
 
 ## Developer Info💻:
 
